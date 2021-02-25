@@ -1,11 +1,5 @@
-//
-//  ViewController.swift
-//  Clima
-//
-//  Created by Angela Yu on 01/09/2019.
-//  Copyright © 2019 App Brewery. All rights reserved.
-//
-// api.openweathermap.org/data/2.5/weather?q=London&appid=d93d699d82966d852a3f0347ab88f062
+
+// api.openweathermap.org/data/2.5/weather?q=London&appid=d93d699d82966d852a3f0347ab88f06
 
 import UIKit
 import CoreLocation
